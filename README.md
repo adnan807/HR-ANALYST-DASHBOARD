@@ -11,7 +11,7 @@ This repository contains the Power BI dashboard designed for HR Analytics. The d
 - Average Salary: Shows the average salary of employees.
 
 ## Detailed Insights
-###Attrition by Education Field:
+### Attrition by Education Field:
 
 - Provides a breakdown of attrition rates by different education fields.
 - Highlights the fields with the highest and lowest attrition rates.
@@ -20,7 +20,7 @@ This repository contains the Power BI dashboard designed for HR Analytics. The d
 - Displays the number of employees who left the organization, categorized by age groups.
 - Helps in identifying which age group has the highest attrition.
 
-###Job Satisfaction:
+### Job Satisfaction:
 - Shows job satisfaction levels across different job roles.
 - Categories include Healthcare Representative, Human Resources, Laboratory Technician, Manager, Manufacturing Director, Research Director, Research Scientist, Sales Executive, and Sales Representative.
 
@@ -28,7 +28,7 @@ This repository contains the Power BI dashboard designed for HR Analytics. The d
 - Illustrates the attrition count across various salary slabs (e.g., up to 5K, 5K-10K, 10K-15K, 15K+).
 - Helps in understanding how salary impacts employee retention.
 
-###Attrition by Job Role:
+### Attrition by Job Role:
 - Provides insights into the number of employees who left, categorized by their job roles.
 - Identifies job roles with the highest attrition rates.
 
